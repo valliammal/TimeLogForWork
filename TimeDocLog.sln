@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeDocLog", "TimeDocLog\TimeDocLog.csproj", "{BBAF395C-82E5-446A-A3DB-4FB062594A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAF395C-82E5-446A-A3DB-4FB062594A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAF395C-82E5-446A-A3DB-4FB062594A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAF395C-82E5-446A-A3DB-4FB062594A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAF395C-82E5-446A-A3DB-4FB062594A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {416981E4-6A18-4B58-A8F7-332024FD5D74}
+	EndGlobalSection
+EndGlobal
